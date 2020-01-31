@@ -1,1 +1,2 @@
-# FCC_landing_page
+# Product Landing Page
+freeCodeCamp - Responsive Web Design Certification
